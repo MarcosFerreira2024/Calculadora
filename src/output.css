@@ -681,3 +681,6 @@ body{
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2);
 }
 
+.botoes:hover{
+  background-color: #354782c4;
+}
